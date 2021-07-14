@@ -1,0 +1,11 @@
+{
+    "manifest_version": 2,
+  
+    "name": "Dino",
+    "description": "Chrome Dino Game in an extension",
+    "version": "2.2",
+    "browser_action": {
+      "default_popup": "main.html",
+      "default_icon": "favicon.ico"
+     }
+  }
